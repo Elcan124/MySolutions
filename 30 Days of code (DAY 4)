@@ -1,12 +1,6 @@
-
-package com.mycompany.ders23;
+# Problem ----> 
 
 import java.util.Scanner;
-
-/**
- *
- * @author elcan
- */
 public class Person {
     private int age;	
   
