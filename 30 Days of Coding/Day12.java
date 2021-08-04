@@ -1,4 +1,4 @@
-
+//Problem--------------https://www.hackerrank.com/challenges/30-inheritance/problem
 import java.util.*;
 
 class Person {
